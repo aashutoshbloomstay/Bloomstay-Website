@@ -1,2 +1,0 @@
-# Bloomstay-Website
-BloomStay
